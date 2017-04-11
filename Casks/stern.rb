@@ -1,6 +1,6 @@
 cask 'stern' do
-  version '1.3.0'
-  sha256 'cfc03653198605fb686298b053a82ef28dbd3ca51f66bddd76ce050fe55d9a79'
+  version '1.4.0'
+  sha256 '5c9278b76e951894810664a86fc20a8a54f86243c22ad1afd9edcdef06a99a17'
 
   url "https://github.com/wercker/stern/releases/download/#{version}/stern_darwin_amd64"
   name 'stern'
