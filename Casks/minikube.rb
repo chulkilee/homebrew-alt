@@ -1,6 +1,6 @@
 cask 'minikube' do
-  version '0.18.0'
-  sha256 '301dc5f47cccface80769bd3a03d58ba80893f6ede75f2a7ec22f1bc56666deb'
+  version '0.19.0'
+  sha256 'efe27dd4f791403b90eefab8c1f6ea3c7f3115a7609f41e3189517f088e20f0e'
 
   url "https://github.com/kubernetes/minikube/releases/download/v#{version}/minikube-darwin-amd64"
   name 'minikube'
