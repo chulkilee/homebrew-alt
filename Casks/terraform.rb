@@ -1,6 +1,6 @@
 cask 'terraform' do
-  version '0.9.5'
-  sha256 '83b5596c2a510925f90a6572d237b864bc4cf277609ebac294c8f400261e657c'
+  version '0.9.6'
+  sha256 '71f53879c2fc33af57238cdb67a344d576ae3ae88f8db112122d433bd762788d'
 
   # releases.hashicorp.com was verified as official when first introduced to the cask
   url "https://releases.hashicorp.com/terraform/#{version}/terraform_#{version}_darwin_amd64.zip"
